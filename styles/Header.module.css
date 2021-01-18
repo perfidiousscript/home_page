@@ -1,6 +1,6 @@
 .header {
   margin: 5%;
-  padding: 0 0 2% 0;
+  padding: 0 0 1% 0;
   display: flex;
   font-size: larger;
   justify-content: space-around;
@@ -8,5 +8,5 @@
 }
 
 .headerLink {
-  font-family: Essays1743;
+  font-family: Fraunces;
 }

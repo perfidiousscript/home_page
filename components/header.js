@@ -10,7 +10,7 @@ export default function Header() {
         <Link href="bio">Bio</Link>
       </div>
       <div className={styles.headerLink}>
-        <Link href="bio">Credits</Link>
+        <Link href="credits">Credits</Link>
       </div>
       <div className={styles.headerLink}>
         <Link href="bio">Social</Link>
