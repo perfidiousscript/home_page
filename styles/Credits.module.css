@@ -1,4 +1,21 @@
 .credits {
   margin: auto;
   width: 75%;
+  overflow: scroll;
+  font-family: Fraunces;
+  color: black;
+  font-weight: 500;
+}
+
+.creditEntry {
+  padding: 1%;
+}
+
+.title {
+  font-size: larger;
+}
+
+.quote {
+  margin: 3% 13%;
+  font-style: italic;
 }
