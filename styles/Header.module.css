@@ -1,0 +1,14 @@
+.header {
+  margin: 5%;
+  font-family: Fraunces;
+  display: flex;
+  font-size: larger;
+  justify-content: space-around;
+  border-bottom: 1px solid black;
+}
+
+.headerLink {
+  /* flex-grow: 1;
+  display: inline;
+  margin: inherit; */
+}

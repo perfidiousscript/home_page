@@ -16,9 +16,26 @@ a {
 }
 
 @font-face {
-  font-family: 'Fraunces';
+  font-family: "Fraunces";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('Fraunces'), url(/public/fonts/Fraunces.ttf) format('ttf');
+  src: local("Fraunces"), url(/public/fonts/Fraunces.ttf) format("ttf");
+}
+
+@font-face {
+  font-family: "Essays1743-Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Essays1743-Bold"),
+    url(/public/fonts/Essays1743-Bold.ttf) format("ttf");
+}
+
+@font-face {
+  font-family: "Essays1743";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Essays1743"), url(/public/fonts/Essays1743.ttf) format("ttf");
 }
