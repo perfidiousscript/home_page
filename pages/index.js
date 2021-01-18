@@ -5,7 +5,9 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <>
-    <Image src="/ergot.jpg" width="500" height="600" />
+    <div className="landing">
+      <Image src="/ergot.jpg" width="800" height="400" />
+    </div>
     </>
   )
 }
