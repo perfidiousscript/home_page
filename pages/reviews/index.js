@@ -49,7 +49,7 @@ export default function Reviews() {
     if (router.query["review"] != null) {
       setEntry(router.query["review"]);
     }
-  });
+  }, [router.query]);
 
   return (
     <div className={styles.content}>
