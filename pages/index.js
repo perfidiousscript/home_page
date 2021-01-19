@@ -17,10 +17,10 @@ export default function Home() {
             height="300"
           />
           <div className={styles.bioBody}>
-            Samuel M. Moss is from Cascadia. His work has been published in{" "}
-            <i>3:AM Magazine</i>, <i>Young Mag</i>, <i>Word For/Word</i> and{" "}
-            <i>Vastarien</i> among other venues. He is an associate editor and
-            web lead at 11:11 Press.
+            Samuel M. Moss is from Cascadia. He has work published, or forthcoming, in{" "}
+            <i>3:AM Magazine</i>, <i>Young Mag</i>, <i>Word For/ Word</i> and{" "}
+            <i>Vastarien</i> <Link href="credits">among other venues</Link>. He is an associate editor and web
+            lead at <a href="https://1111press.com/">11:11 Press</a>.
           </div>
         </div>
       </div>

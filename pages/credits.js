@@ -7,6 +7,7 @@ export default function Credits() {
   return (
     <>
       <Header />
+      <div className={styles.pageTitle}>Recent and Selected Credits</div>
       <div className={styles.credits}>
         <div className={styles.creditEntry}>
           <div className={styles.title}>

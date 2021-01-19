@@ -48,6 +48,16 @@
   line-height: 1.6;
 }
 
+.bioBody a {
+  color: darkgrey;
+  text-decoration: none;
+}
+
+.bioBody Link {
+  color: darkgrey;
+  text-decoration: none;
+}
+
 .bioImage {
   border: 1px solid black;
 }

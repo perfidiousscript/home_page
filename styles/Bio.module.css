@@ -17,3 +17,13 @@
 .bioImage {
   border: 1px solid black;
 }
+
+.bioBody a {
+  color: darkgrey;
+  text-decoration: none;
+}
+
+.bioBody Link {
+  color: darkgrey;
+  text-decoration: none;
+}
