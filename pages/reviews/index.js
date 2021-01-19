@@ -34,7 +34,7 @@ export default function Reviews() {
             data-key={entry}
             onClick={selectReview}
           >
-            {reviews[entry]["title"]}
+            {reviews[entry]["title"]} by {reviews[entry]["author"]}
           </div>
         );
       }
