@@ -15,9 +15,10 @@ export default function Header() {
       <div className={styles.headerLink}>
         <Link href="social">Social</Link>
       </div>
-      {
-        // <div className={styles.headerLink}></div>
-      }
+
+      <div className={styles.headerLink}>
+        <Link href="reviews">Reviews</Link>
+      </div>
     </div>
   );
 }

@@ -1,4 +1,4 @@
-.reviewContainer {
+.reviewPageContainer {
   display: flex;
 }
 
@@ -8,9 +8,27 @@
   width: 20%;
 }
 
+.reviewContainer {
+  margin: auto;
+  max-width: 60%;
+}
+
+.reviewTitle {
+  font-family: Fraunces;
+  font-size: x-large;
+  font-style: italic;
+  margin: 4%;
+}
+
+.reviewAuthor {
+  font-family: Fraunces;
+  margin: auto;
+  width: 91%;
+}
+
 .reviewBody {
   font-family: Fraunces;
-  margin: 5%;
+  margin: 8% 7%;
 }
 
 .leftBarEntry {
