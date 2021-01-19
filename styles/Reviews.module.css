@@ -1,0 +1,25 @@
+.reviewContainer {
+  display: flex;
+}
+
+.leftBar {
+  border-right: 1px solid darkgray;
+  margin-left: 5%;
+  width: 20%;
+}
+
+.reviewBody {
+  font-family: Fraunces;
+  margin: 5%;
+}
+
+.leftBarEntry {
+  font-family: Fraunces;
+  padding: 8%;
+  border-bottom: 1px solid darkgray;
+}
+
+.leftBarEntry:hover {
+  background-color: lightgray;
+  color: white;
+}
