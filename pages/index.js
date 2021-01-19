@@ -25,9 +25,7 @@ export default function Home() {
         </div>
       </div>
       <div className={styles.landing}>
-        <div className={styles.landingTop}>
-          <Image src="/ergot.jpg" width="800" height="400" />
-        </div>
+        <div className={styles.landingTop}></div>
         <div className={styles.landingBottom}></div>
       </div>
     </>

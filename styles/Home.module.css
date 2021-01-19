@@ -1,14 +1,35 @@
+@media screen and (min-width: 768px) {
+  .landingTop {
+    background: white;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding: 10% 0 10% 20%;
+    background-image: url("../public/ergot.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .landingTop {
+    background: white;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding: 10% 0 10% 20%;
+    background-image: url("../public/ergot_vert.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+}
+
 .landing {
   z-index: 1;
   width: 100%;
   height: 2000px;
-}
-
-.landingTop {
-  background: white;
-  position: absolute;
-  width: 100%;
-  padding: 10% 0 10% 20%;
 }
 
 .bio {
