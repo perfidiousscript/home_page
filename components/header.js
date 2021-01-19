@@ -13,7 +13,7 @@ export default function Header() {
         <Link href="credits">Credits</Link>
       </div>
       <div className={styles.headerLink}>
-        <Link href="bio">Social</Link>
+        <Link href="social">Social</Link>
       </div>
     </div>
   );

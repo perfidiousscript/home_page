@@ -13,3 +13,7 @@
   padding: 7% 14%;
   line-height: 1.6;
 }
+
+.bioImage {
+  border: 1px solid black;
+}

@@ -1,10 +1,15 @@
 .credits {
   margin: auto;
-  width: 75%;
+  width: 60%;
   overflow: scroll;
   font-family: Fraunces;
   color: black;
   font-weight: 500;
+}
+
+.credits a {
+  color: darkgrey;
+  text-decoration: none;
 }
 
 .creditEntry {

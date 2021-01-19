@@ -15,22 +15,6 @@
   position: fixed;
 }
 
-.bio {
-  margin: auto;
-  width: 50%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.bioBody {
-  text-indent: 5%;
-  font-family: Fraunces;
-  font-size: larger;
-  padding: 7% 14%;
-  line-height: 1.6;
-}
-
 .text {
   font-family: serif;
   font-size: 41pt;
