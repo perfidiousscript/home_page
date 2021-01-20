@@ -9,7 +9,6 @@
 }
 
 .reviewContainer {
-  margin: auto;
   max-width: 60%;
 }
 
@@ -28,7 +27,12 @@
 
 .reviewBody {
   font-family: Fraunces;
-  margin: 8% 7%;
+  margin: 0% 15% 0 0%;
+  padding: 6% 5% 0 4%;
+  line-height: 2.2;
+  text-indent: 10%;
+  background: white;
+  opacity: 0.8;
 }
 
 .leftBarEntry {

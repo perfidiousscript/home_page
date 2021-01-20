@@ -2,10 +2,10 @@ import Head from "next/head";
 import Image from "next/image";
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/router";
-import styles from "../../styles/Reviews.module.css";
+import styles from "../styles/Reviews.module.css";
 import Link from "next/link";
-import Header from "../../components/header.js";
-import { reviews } from "../../public/reviews.js";
+import Header from "../components/header.js";
+import { reviews } from "../public/reviews.js";
 
 export default function Reviews() {
   const router = useRouter();
