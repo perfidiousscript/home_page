@@ -9,6 +9,9 @@ import { reviews } from "../public/reviews.js";
 
 export default function Reviews() {
   const router = useRouter();
+
+  const [entry, setEntry] = useState("default");
+
   function selectReview(e) {
     console.log(e.target.dataset);
     setEntry(e.target.dataset.key);
@@ -43,7 +46,14 @@ export default function Reviews() {
     return reviewEntries;
   }
 
-  const [entry, setEntry] = useState("default");
+  function generateReviewBody(reviewArray){
+    let reviewBody = []
+    for(const para of reviewArray){
+      reviewBody.push(<div className={styles.reviewPara}>{para}</div>)
+    }
+    return reviewBody
+  }
+
 
   useEffect(() => {
     if (router.query["review"] != null) {
@@ -59,7 +69,7 @@ export default function Reviews() {
         <div className={styles.reviewContainer}>
           <div className={styles.reviewTitle}>{reviews[entry].title}</div>
           {generateReviewAuthor()}
-          <div className={styles.reviewBody}>{reviews[entry].body}</div>
+          <div className={styles.reviewBody}>{generateReviewBody(reviews[entry].body)}</div>
         </div>
       </div>
     </div>
