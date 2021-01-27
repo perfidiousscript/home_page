@@ -38,7 +38,7 @@ export default function Credits() {
         </div>
         <div className={styles.creditEntry}>
           <div className={styles.title}>
-            [Forthcoming] 'The Catch' in Young Mag January 2021
+            'The Catch' in <a href='https://www.youngmag.io/article/the-catch'>Young Mag</a> January 2021
           </div>
           <div className={styles.quote}>
             "There’s a place nearby that sells these little bottles. Script
