@@ -84,6 +84,14 @@ export default function Credits() {
         </div>
         <div className={styles.creditEntry}>
           <div className={styles.title}>
+            'Lying Down Machines' in <a href='http://journal.gonelawn.net/issue16/Moss.php'>Gone Lawn 16</a> Fall 2014
+          </div>
+          <div className={styles.quote}>
+            The father and the son built the machines from boards they gathered on the Taiga. It took two months to build the first Lying Down Machine. They made black pine pitch in a fire hut and gathered Widow's Teeth from within the granite crevices.
+          </div>
+        </div>
+        <div className={styles.creditEntry}>
+          <div className={styles.title}>
             Older credits can be found{" "}
             <a href="https://perfidiousscript.blogspot.com/p/complete-list-of-credits.html">
               here
