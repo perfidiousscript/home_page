@@ -11,13 +11,13 @@ export default function Credits() {
       <div className={styles.credits}>
         <div className={styles.creditEntry}>
           <div className={styles.title}>
-            [Forthcoming] 'Lemma' (Poetry) in Word For/ Word July 2021
+            [Forthcoming] <i>Lemma</i> in Word For/ Word July 2021
           </div>
           <div className={styles.quote}>One poem in 'Word For/ Word'</div>
         </div>
         <div className={styles.creditEntry}>
           <div className={styles.title}>
-            [Forthcoming] 'Morello, Van, Marasca' in 3:AM Magazine June 2021
+            [Forthcoming] <i>Morello, Van, Marasca</i> in 3:AM Magazine June 2021
           </div>
           <div className={styles.quote}>
             “One thing I’ve learned,” she’d said one morning, unbidden, “Is that
@@ -28,7 +28,7 @@ export default function Credits() {
         </div>
         <div className={styles.creditEntry}>
           <div className={styles.title}>
-            [Forthcoming] 'The Sculptor' in Vastarien: A Literary Journal Spring
+            [Forthcoming] <i>The Sculptor</i> in Vastarien: A Literary Journal Spring
             2021
           </div>
           <div className={styles.quote}>
@@ -38,7 +38,7 @@ export default function Credits() {
         </div>
         <div className={styles.creditEntry}>
           <div className={styles.title}>
-            'The Catch' in <a href='https://www.youngmag.io/article/the-catch'>Young Mag</a> January 2021
+            <i>The Catch</i> in <a href='https://www.youngmag.io/article/the-catch'>Young Mag</a> January 2021
           </div>
           <div className={styles.quote}>
             "There’s a place nearby that sells these little bottles. Script
@@ -52,7 +52,7 @@ export default function Credits() {
         </div>
         <div className={styles.creditEntry}>
           <div className={styles.title}>
-            'Gallaher Calls' in{" "}
+            <i>Gallaher Calls</i> in{" "}
             <a href="https://dimshores.bigcartel.com/product/dim-shores-presents-volume-1-anthology-2nd-edition">
               Dim Shores Presents #1
             </a>{" "}
@@ -69,8 +69,8 @@ export default function Credits() {
         </div>
         <div className={styles.creditEntry}>
           <div className={styles.title}>
-            'Some Other and Separate Iteration: An Interview with Mark Gluth and
-            Steven Purtill' on{" "}
+            <i>Some Other and Separate Iteration: An Interview with Mark Gluth and
+            Steven Purtill</i> on{" "}
             <a href="https://denniscooperblog.com/please-welcome-to-the-world-mark-gluth-come-down-to-us-mark-gluth-and-steven-purtill-crippled-symmetry-kiddiepunk-press/">
               Dennis Cooper's Blog
             </a>{" "}
@@ -83,8 +83,14 @@ export default function Credits() {
           </div>
         </div>
         <div className={styles.creditEntry}>
+        <div className={styles.title}><i>Drug Lung</i> and <i>Some Eastern Demon</i> in <a href='http://www.decompmagazine.com/mossflashes.htm'>decomP</a> Sep 2019</div>
+        <div className={styles.quote}>
+        I saw some eastern demon crawling. Called out, Catch as catch can! and started to run. He was lumpen, tired, smoking a cigarette. Sweatpants and derisive comments. I made it thirty feet before turning. These things don’t pay as well as they used to, he said.
+        </div>
+        </div>
+        <div className={styles.creditEntry}>
           <div className={styles.title}>
-            'Lying Down Machines' in <a href='http://journal.gonelawn.net/issue16/Moss.php'>Gone Lawn 16</a> Fall 2014
+            <i>Lying Down Machines</i> in <a href='http://journal.gonelawn.net/issue16/Moss.php'>Gone Lawn 16</a> Fall 2014
           </div>
           <div className={styles.quote}>
             The father and the son built the machines from boards they gathered on the Taiga. It took two months to build the first Lying Down Machine. They made black pine pitch in a fire hut and gathered Widow's Teeth from within the granite crevices.
