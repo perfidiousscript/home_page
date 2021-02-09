@@ -29,7 +29,7 @@ export default function Reviews() {
     let reviewEntries = [];
 
     for (const entry in reviews) {
-      if (entry != "default") {
+      if (entry !== "default") {
         reviewEntries.push(
           <div
             className={styles.leftBarEntry}
@@ -46,14 +46,13 @@ export default function Reviews() {
     return reviewEntries;
   }
 
-  function generateReviewBody(reviewArray){
-    let reviewBody = []
-    for(const para of reviewArray){
-      reviewBody.push(<div className={styles.reviewPara}>{para}</div>)
+  function generateReviewBody(reviewArray) {
+    let reviewBody = [];
+    for (const para of reviewArray) {
+      reviewBody.push(<div className={styles.reviewPara}>{para}</div>);
     }
-    return reviewBody
+    return reviewBody;
   }
-
 
   useEffect(() => {
     if (router.query["review"] != null) {
@@ -69,7 +68,9 @@ export default function Reviews() {
         <div className={styles.reviewContainer}>
           <div className={styles.reviewTitle}>{reviews[entry].title}</div>
           {generateReviewAuthor()}
-          <div className={styles.reviewBody}>{generateReviewBody(reviews[entry].body)}</div>
+          <div className={styles.reviewBody}>
+            {generateReviewBody(reviews[entry].body)}
+          </div>
         </div>
       </div>
     </div>
