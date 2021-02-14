@@ -54,6 +54,16 @@ export default function Reviews() {
     return reviewBody;
   }
 
+  function generatePurchaseLink() {
+    let purchaseLink = [];
+    if (reviews[entry]["purchase_link"]) {
+      purchaseLink.push(
+        <a href={reviews[entry]["purchase_link"]}>Purchase Here</a>
+      );
+    }
+    return purchaseLink;
+  }
+
   useEffect(() => {
     if (router.query["review"] != null) {
       setEntry(router.query["review"]);
@@ -68,6 +78,7 @@ export default function Reviews() {
         <div className={styles.reviewContainer}>
           <div className={styles.reviewTitle}>{reviews[entry].title}</div>
           {generateReviewAuthor()}
+          <div className={styles.purchaseLink}>{generatePurchaseLink()}</div>
           <div className={styles.reviewBody}>
             {generateReviewBody(reviews[entry].body)}
           </div>

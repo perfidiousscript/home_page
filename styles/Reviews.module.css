@@ -45,3 +45,9 @@
   background-color: lightgray;
   color: white;
 }
+
+.purchaseLink {
+  font-family: Fraunces;
+  margin: 2% auto;
+  width: 91%;
+}
