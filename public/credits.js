@@ -5,14 +5,14 @@
 
 export const credits = [
   {
-    title: ["[Forthcoming]", <i> Lemma </i>, "in Word For/ Word July 2021"],
+    title: ["[Forthcoming]", <i> Lemma </i>, "in Word For/ Word, July 2021"],
     quote: "One poem in 'Word For/ Word'",
   },
   {
     title: [
       "[Forthcoming]",
       <i> Morello, Van, Marasca </i>,
-      "in 3:AM Magazine June 2021",
+      "in 3:AM Magazine, June 2021",
     ],
     quote:
       "“One thing I’ve learned,” she’d said one morning, unbidden, “Is that if you talk enough about something you don’t have, it will eventually find you.” I had to wonder if that was why she never talked of stuff.",
@@ -21,7 +21,7 @@ export const credits = [
     title: [
       "[Forthcoming]",
       <i> The Sculptor </i>,
-      "in Vastarien: A Literary Journal Spring 2021",
+      "in Vastarien: A Literary Journal, Summer 2021",
     ],
     quote:
       "A Journalist gets an invitation to interview a reclusive sculptor and learns firsthand the meaning of the artist`s perplexing work.",
@@ -31,7 +31,7 @@ export const credits = [
       <i>The Catch </i>,
       "in",
       <a href="https://www.youngmag.io/article/the-catch"> Young Mag </a>,
-      "January 2021",
+      ", January 2021",
     ],
     quote:
       '"There’s a place nearby that sells these little bottles. Script unintelligible. It’s all caffeine with a dash of cholesterol and casein. You drink it down in a gulp and the whole world gets wan and jiggly. Things seem slick, but manageable. Whole barriers of the mind are broken down and you feel like you can talk to anyone, anywhere, anytime. I wash three of these a day down my gullet, civet scented, I think."',
@@ -44,7 +44,7 @@ export const credits = [
         {" "}
         Dim Shores Presents #1'{" "}
       </a>,
-      "June 2020",
+      ", June 2020",
     ],
     quote:
       "Two reclusive siblings live in the shadow of the shadow of their family`s wealth, creating art that no one sees. When the family lawyer Gallaher calls to deliver some sorry news the lavish the hermetic and aesthetic environment they have carefully curated goes awry. What is real, what is imagined; what is dreamt and what is created all fall together.",
@@ -71,7 +71,7 @@ export const credits = [
       <i> Some Eastern Demon </i>,
       "in",
       <a href="http://www.decompmagazine.com/mossflashes.htm"> decomP </a>,
-      "Sep 2019",
+      ", Sep 2019",
     ],
     quote:
       "I saw some eastern demon crawling. Called out, Catch as catch can! and started to run. He was lumpen, tired, smoking a cigarette. Sweatpants and derisive comments. I made it thirty feet before turning. These things don’t pay as well as they used to, he said.",
@@ -81,7 +81,7 @@ export const credits = [
       <i>Lying Down Machines </i>,
       "in",
       <a href="http://journal.gonelawn.net/issue16/Moss.php"> Gone Lawn 16 </a>,
-      "Fall 2014",
+      ", Fall 2014",
     ],
     quote:
       "The father and the son built the machines from boards they gathered on the Taiga. It took two months to build the first Lying Down Machine. They made black pine pitch in a fire hut and gathered Widow`s Teeth from within the granite crevices.",
