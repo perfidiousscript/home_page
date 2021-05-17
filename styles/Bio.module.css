@@ -14,7 +14,7 @@
   line-height: 1.6;
 }
 
-.bioImage {
+.bio div div:first-child {
   border: 1px solid black;
 }
 
