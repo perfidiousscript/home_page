@@ -13,7 +13,6 @@ export default function Reviews() {
   const [entry, setEntry] = useState("default");
 
   function selectReview(e) {
-    console.log(e.target.dataset);
     setEntry(e.target.dataset.key);
   }
 

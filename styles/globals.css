@@ -43,3 +43,12 @@ a {
   font-display: swap;
   src: local("Essays1743"), url(/public/fonts/Essays1743.ttf) format("ttf");
 }
+
+@font-face {
+  font-family: "CrimsonPro";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local("CrimsonPro-VariableFont_wght"),
+    url(/public/fonts/CrimsonPro-VariableFont_wght.ttf) format("ttf");
+}

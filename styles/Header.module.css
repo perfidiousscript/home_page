@@ -1,10 +1,23 @@
 .header {
-  margin: 5% 5% 0 5%;
-  padding: 0 0 1% 0;
+  border-bottom: 1px solid black;
+  height: 15vh;
+  display: flex;
+  padding: 0% 3%;
+}
+
+.nameContainer {
+  font-family: CrimsonPro;
+  font-size: xx-large;
+  flex-grow: 1;
+  margin: auto 0%;
+}
+
+.headerLinkContainer {
   display: flex;
   font-size: larger;
   justify-content: space-around;
-  border-bottom: 1px solid black;
+  flex-grow: 3;
+  margin: auto 0%;
 }
 
 .headerLink {

@@ -6,18 +6,21 @@ import Link from "next/link";
 export default function Header() {
   return (
     <div className={styles.header}>
-      <div className={styles.headerLink}>
-        <Link href="bio">Bio</Link>
-      </div>
-      <div className={styles.headerLink}>
-        <Link href="credits">Credits</Link>
-      </div>
-      <div className={styles.headerLink}>
-        <Link href="social">Social</Link>
-      </div>
+      <div className={styles.nameContainer}>SAMUEL M. MOSS</div>
+      <div className={styles.headerLinkContainer}>
+        <div className={styles.headerLink}>
+          <Link href="bio">Bio</Link>
+        </div>
+        <div className={styles.headerLink}>
+          <Link href="credits">Credits</Link>
+        </div>
+        <div className={styles.headerLink}>
+          <Link href="social">Social</Link>
+        </div>
 
-      <div className={styles.headerLink}>
-        <Link href="reviews">Reviews</Link>
+        <div className={styles.headerLink}>
+          <Link href="reviews">Reviews</Link>
+        </div>
       </div>
     </div>
   );
