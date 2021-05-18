@@ -21,6 +21,9 @@ export default function Header() {
         <div className={styles.headerLink}>
           <Link href="reviews">Reviews</Link>
         </div>
+        <div className={styles.headerLink}>
+          <Link href="editorial_services">Editorial Services</Link>
+        </div>
       </div>
     </div>
   );

@@ -19,6 +19,15 @@ a {
   box-sizing: border-box;
 }
 
+.bodyText {
+  font-family: Fraunces;
+  font-size: larger;
+  padding: 7% 14%;
+  line-height: 1.6;
+  background: white;
+  opacity: 0.8;
+}
+
 @font-face {
   font-family: "Fraunces";
   font-style: normal;
