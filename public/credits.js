@@ -19,9 +19,12 @@ export const credits = [
   },
   {
     title: [
-      "[Forthcoming]",
       <i> The Sculptor </i>,
-      "in Vastarien: A Literary Journal, Summer 2021",
+      "in ",
+      <a href="https://grimscribepress.com/issues/">
+        Vastarien: A Literary Journal
+      </a>,
+      " vol.4 issue 1, Spring 2021",
     ],
     quote:
       "A Journalist gets an invitation to interview a reclusive sculptor and learns firsthand the meaning of the artist`s perplexing work.",

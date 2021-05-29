@@ -7,7 +7,7 @@ import { credits } from "../public/credits.js";
 export default function Credits() {
   function creditEntries() {
     let creditsHTML = credits.map((credit) => (
-      <div className={styles.creditEntry}>
+      <div className={styles.creditEntry} key={styles.title}>
         <div className={styles.title}>{credit.title}</div>
         <div className={styles.quote}>{credit.quote}</div>
       </div>
