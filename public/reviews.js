@@ -5,6 +5,17 @@ export const reviews = {
       "I review small press innovative fiction. If you have an upcoming or recent release you would like reviewed, feel free to contact me at thisis.fryou@gmail.com",
     ],
   },
+  wiki_of_infinte_sorrows: {
+    title: "Wiki of Infinte Sorrows",
+    author: "Matthew Burnside",
+    body: [
+      [
+        <a href="https://entropymag.org/wiki-of-infinite-sorrows/">
+          Review at Entropy Mag!
+        </a>,
+      ],
+    ],
+  },
   directory: {
     title: "Directory",
     author: "Christopher Linforth",

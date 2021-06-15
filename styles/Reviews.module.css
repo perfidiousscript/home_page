@@ -35,6 +35,11 @@
   opacity: 0.8;
 }
 
+.reviewBody div {
+  min-width: 50vw;
+  min-height: 15vh;
+}
+
 .leftBarEntry {
   font-family: Fraunces;
   padding: 8%;
