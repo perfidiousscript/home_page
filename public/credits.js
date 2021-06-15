@@ -10,9 +10,10 @@ export const credits = [
   },
   {
     title: [
-      "[Forthcoming]",
       <i> Morello, Van, Marasca </i>,
-      "in 3:AM Magazine, June 2021",
+      <a href="https://www.3ammagazine.com/3am/morello-van-marasca/">
+        in 3:AM Magazine, June 2021
+      </a>,
     ],
     quote:
       "“One thing I’ve learned,” she’d said one morning, unbidden, “Is that if you talk enough about something you don’t have, it will eventually find you.” I had to wonder if that was why she never talked of stuff.",
