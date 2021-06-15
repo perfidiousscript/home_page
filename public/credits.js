@@ -10,9 +10,9 @@ export const credits = [
   },
   {
     title: [
-      <i> Morello, Van, Marasca </i>,
+      <i> Morello, Van, Marasca in </i>,
       <a href="https://www.3ammagazine.com/3am/morello-van-marasca/">
-        in 3:AM Magazine, June 2021
+        3:AM Magazine, June 2021
       </a>,
     ],
     quote:
