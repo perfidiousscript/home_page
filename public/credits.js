@@ -5,6 +5,15 @@
 
 export const credits = [
   {
+    title: [
+      "[Forthcoming]",
+      <i> The Starsick </i>,
+      "(venue and release date TBA)",
+    ],
+    quote:
+      "We learn about the events that occured in Paradise Arizona in the 1970s, and the repurcussions of those events today.",
+  },
+  {
     title: ["[Forthcoming]", <i> Lemma </i>, "in Word For/ Word, July 2021"],
     quote: "One poem in 'Word For/ Word'",
   },
