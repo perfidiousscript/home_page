@@ -14,8 +14,9 @@ export default function EditorialServices() {
         My areas of focus are innovative literary, and literary horror. I am
         open to considering other kinds of work on a case-by-case basis.
         <br /> <br />
-        Rates are approxiamtely $0.01/word negotiable on length of the work and
-        degree of editing desired. <br /> <br />
+        Rates are approxiamtely $0.005/word (~US$15 for a 3000 word story)
+        negotiable on length of the work and degree of editing desired. <br />{" "}
+        <br />
         In addition to proofreading at 11:11 Press I work with a number of
         authors who have published widely and in paying venues. Testimonials and
         references are available upon request.
