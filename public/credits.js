@@ -8,10 +8,10 @@ export const credits = [
     title: [
       "[Forthcoming]",
       <i> The Starsick </i>,
-      "(venue and release date TBA)",
+      "produced as a podcast on The Wicked Library late 2021",
     ],
     quote:
-      "We learn about the events that occured in Paradise Arizona in the 1970s, and the repurcussions of those events today.",
+      "“You have to understand that those kids didn't just die. What we saw, the knowledge we all received wasn’t liberating. We had a glimpse above the floorboards.”",
   },
   {
     title: ["[Forthcoming]", <i> Lemma </i>, "in Word For/ Word, July 2021"],
@@ -19,14 +19,27 @@ export const credits = [
   },
   {
     title: [
+      <i>Coming, Going</i>,
+      " in ",
+      <a href="https://newworldwriting.net/samuel-m-moss-coming-going/">
+        New World Writing
+      </a>,
+      ", June 2021",
+    ],
+    quote: `"Were he to have the heart surgery nothing would change. The mornings could come and the evenings would come. The children would cry, still."`,
+  },
+  {
+    title: [
       <i> Morello, Van, Marasca in </i>,
       <a href="https://www.3ammagazine.com/3am/morello-van-marasca/">
-        3:AM Magazine, June 2021
+        3:AM Magazine
       </a>,
+      ", June 2021",
     ],
     quote:
       "“One thing I’ve learned,” she’d said one morning, unbidden, “Is that if you talk enough about something you don’t have, it will eventually find you.” I had to wonder if that was why she never talked of stuff.",
   },
+
   {
     title: [
       <i> The Sculptor </i>,
