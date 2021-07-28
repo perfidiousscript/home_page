@@ -14,7 +14,13 @@ export const credits = [
       "“You have to understand that those kids didn't just die. What we saw, the knowledge we all received wasn’t liberating. We had a glimpse above the floorboards.”",
   },
   {
-    title: ["[Forthcoming]", <i> Lemma </i>, "in Word For/ Word, July 2021"],
+    title: [
+      <i> Lemma </i>,
+      " in ",
+      <a href="http://www.wordforword.info/vol37/Moss.html">Word For/ Word</a>,
+      ,
+      " July 2021",
+    ],
     quote: "One poem in 'Word For/ Word'",
   },
   {
