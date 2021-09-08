@@ -12,7 +12,7 @@ export const credits = [
       "produced as a podcast on The Wicked Library late 2021",
     ],
     quote:
-      "“You have to understand that those kids didn't just die. What we saw, the knowledge we all received wasn’t liberating. We had a glimpse above the floorboards.”",
+      "“I still didn`t understand. I asked my grandmother what sort of star it was, a constellation or a shooting star or something else. “No. No, shooting star,” she said, thinking for a minute. “Like a star, but different. Like a black star. And they watch it for a long time. Only in certain places: it happens. It’s a bad thing. These children—” she shook her head.”",
   },
   {
     title: [
