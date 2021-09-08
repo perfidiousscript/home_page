@@ -4,6 +4,7 @@
 // }
 
 export const credits = [
+  { year: "2021" },
   {
     title: [
       "[Forthcoming]",
@@ -68,6 +69,7 @@ export const credits = [
     quote:
       '"There’s a place nearby that sells these little bottles. Script unintelligible. It’s all caffeine with a dash of cholesterol and casein. You drink it down in a gulp and the whole world gets wan and jiggly. Things seem slick, but manageable. Whole barriers of the mind are broken down and you feel like you can talk to anyone, anywhere, anytime. I wash three of these a day down my gullet, civet scented, I think."',
   },
+  { year: "2020" },
   {
     title: [
       <i>Gallaher Calls </i>,
@@ -96,6 +98,7 @@ export const credits = [
     quote:
       "An interview with Author Mark Gluth about his novel `Come Down to Us` as well as an interview with artist Steven Purtill who collaborated with Mark on projects related to the novel.",
   },
+  { year: "2019" },
   {
     title: [
       <i>Drug Lung </i>,
@@ -108,6 +111,7 @@ export const credits = [
     quote:
       "I saw some eastern demon crawling. Called out, Catch as catch can! and started to run. He was lumpen, tired, smoking a cigarette. Sweatpants and derisive comments. I made it thirty feet before turning. These things don’t pay as well as they used to, he said.",
   },
+  { year: "2014" },
   {
     title: [
       <i>Lying Down Machines </i>,

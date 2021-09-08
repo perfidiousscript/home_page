@@ -9,10 +9,10 @@
 
 .pageTitle {
   font-family: Fraunces;
-font-weight: 500;
-font-size: xx-large;
-margin: 3% auto;
-width: 66%;
+  font-weight: 500;
+  font-size: xx-large;
+  margin: 3% auto;
+  width: 66%;
 }
 
 .credits a {
@@ -31,4 +31,9 @@ width: 66%;
 .quote {
   margin: 3% 13%;
   font-style: italic;
+}
+
+.creditYear {
+  font-size: 2em;
+  margin: 3% 1%;
 }

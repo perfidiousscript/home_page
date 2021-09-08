@@ -6,12 +6,18 @@ import { credits } from "../public/credits.js";
 
 export default function Credits() {
   function creditEntries() {
-    let creditsHTML = credits.map((credit) => (
-      <div className={styles.creditEntry} key={styles.title}>
-        <div className={styles.title}>{credit.title}</div>
-        <div className={styles.quote}>{credit.quote}</div>
-      </div>
-    ));
+    let creditsHTML = credits.map((credit) => {
+      if (credit.year) {
+        return <div className={styles.creditYear}>{credit.year}</div>;
+      } else {
+        return (
+          <div className={styles.creditEntry} key={credit.title}>
+            <div className={styles.title}>{credit.title}</div>
+            <div className={styles.quote}>{credit.quote}</div>
+          </div>
+        );
+      }
+    });
 
     return creditsHTML;
   }
