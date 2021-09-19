@@ -19,6 +19,14 @@ a {
   box-sizing: border-box;
 }
 
+.pageTitle {
+  font-family: Fraunces;
+  font-weight: 500;
+  font-size: xx-large;
+  margin: 3% auto;
+  width: 66%;
+}
+
 .bodyText {
   font-family: Fraunces;
   font-size: larger;

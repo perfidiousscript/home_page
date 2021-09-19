@@ -1,0 +1,29 @@
+.portfolioBody {
+  width: 60%;
+  margin: 5% auto;
+}
+
+.portfolioEntry {
+}
+
+.entryImage {
+  border: 1px solid gray;
+  width: 66%;
+  height: 11em;
+  margin: 2% auto;
+  background: black;
+  display: flex;
+  justify-content: center;
+}
+
+.entryTitle {
+  font-family: Fraunces;
+  font-size: 1.5em;
+  color: black;
+  font-weight: 500;
+}
+
+.entryDescription {
+  font-family: Fraunces;
+  margin: 1% 0%;
+}

@@ -24,7 +24,7 @@ export default function Credits() {
   return (
     <>
       <Header />
-      <div className={styles.pageTitle}>Recent and Selected Credits</div>
+      <div className="pageTitle">Recent and Selected Credits</div>
       <div className={styles.credits}>
         {creditEntries()}
         <div className={styles.title}>
