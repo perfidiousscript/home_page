@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "../styles/Social.module.css";
 import Link from "next/link";
-import Header from "../components/header.js";
+import Header from "../components/Header.js";
 
 export default function Bio() {
   return (

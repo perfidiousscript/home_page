@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import { useRouter } from "next/router";
 import styles from "../styles/Reviews.module.css";
 import Link from "next/link";
-import Header from "../components/header.js";
+import Header from "../components/Header.js";
 import { reviews } from "../public/reviews.js";
 
 export default function Reviews() {

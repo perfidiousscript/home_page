@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "../styles/Credits.module.css";
 import Link from "next/link";
-import Header from "../components/header.js";
+import Header from "../components/Header.js";
 import { credits } from "../public/credits.js";
 
 export default function Credits() {
