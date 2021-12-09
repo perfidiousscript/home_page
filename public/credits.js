@@ -9,7 +9,7 @@ export const credits = [
     title: [
       "[Forthcoming] ",
       <i>The Veldt Light</i>,
-      " An excerpt from, 'The Veldt Institute' a novella in progress in New Sinews",
+      " (an excerpt from 'The Veldt Institute' a novella in progress) in New Sinews vol. 5",
     ],
     quote:
       "The light is itself a healer, or perhaps better said, a teacher. The sun rises every morning in the east and casts its rays and long shadows toward the west for an hour or so. Rapidly the sun rises in the sky until it seems to hang directly above the Institute—that is to say, in the very center of the veldt itself—at which point all shadows diminish to nothing.",
@@ -18,7 +18,7 @@ export const credits = [
     title: [
       "[Forthcoming]",
       <i> The Starsick </i>,
-      "produced as a podcast on The Wicked Library coming early 2022",
+      "produced as a podcast on The Wicked Library in early 2022",
     ],
     quote:
       "“I still didn`t understand. I asked my grandmother what sort of star it was, a constellation or a shooting star or something else. “No. No, shooting star,” she said, thinking for a minute. “Like a star, but different. Like a black star. And they watch it for a long time. Only in certain places: it happens. It’s a bad thing. These children—” she shook her head.”",
