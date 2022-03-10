@@ -7,21 +7,24 @@ export const credits = [
   { year: "2022" },
   {
     title: [
-      "[Forthcoming] ",
-      <i>The Veldt Light</i>,
-      " (an excerpt from 'The Veldt Institute' a novella in progress) in New Sinews vol. 5",
-    ],
-    quote:
-      "The light is itself a healer, or perhaps better said, a teacher. The sun rises every morning in the east and casts its rays and long shadows toward the west for an hour or so. Rapidly the sun rises in the sky until it seems to hang directly above the Institute—that is to say, in the very center of the veldt itself—at which point all shadows diminish to nothing.",
-  },
-  {
-    title: [
       "[Forthcoming]",
       <i> The Starsick </i>,
       "produced as a podcast on The Wicked Library in early 2022",
     ],
     quote:
       "“I still didn`t understand. I asked my grandmother what sort of star it was, a constellation or a shooting star or something else. “No. No, shooting star,” she said, thinking for a minute. “Like a star, but different. Like a black star. And they watch it for a long time. Only in certain places: it happens. It’s a bad thing. These children—” she shook her head.”",
+  },
+  {
+    title: [
+      <i>The Veldt Light</i>,
+      " in ",
+      <a href="https://www.newnewsinews.com/issue5/moss"> New Sinews #5</a>,
+      ", March 2022",
+      <br />,
+      "An excerpt from 'The Veldt Institute' a novella in progress",
+    ],
+    quote:
+      "The light is itself a healer, or perhaps better said, a teacher. The sun rises every morning in the east and casts its rays and long shadows toward the west for an hour or so. Rapidly the sun rises in the sky until it seems to hang directly above the Institute—that is to say, in the very center of the veldt itself—at which point all shadows diminish to nothing.",
   },
   { year: "2021" },
   {
@@ -30,7 +33,7 @@ export const credits = [
       " in ",
       <a href="http://www.wordforword.info/vol37/Moss.html">Word For/ Word</a>,
       ,
-      " July 2021",
+      ", July 2021",
     ],
     quote: "One poem in 'Word For/ Word'",
   },
