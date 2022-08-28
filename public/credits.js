@@ -132,7 +132,7 @@ export const credits = [{
                                     title: [ <
           i > Lying Down Machines < /i>,
           "in", <
-          a href="http://journal.gonelawn.net/issue16/Moss.php" > Gone Lawn 16 < /a>,
+          a href="https://gonelawn.net/journal/issue16/Moss.php" > Gone Lawn 16 < /a>,
                                       ", Fall 2014",
                                     ],
                                     quote: "The father and the son built the machines from boards they gathered on the Taiga. It took two months to build the first Lying Down Machine. They made black pine pitch in a fire hut and gathered Widow`s Teeth from within the granite crevices.",
