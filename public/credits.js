@@ -8,7 +8,7 @@ export const credits = [{
 },
 {
   title: [<i> The Starsick </i>,
-    "produced as a podcast on The Wicked Library in July 2022",
+    "produced as a podcast on ", <a href="https://www.spreaker.com/user/8992719/ew-2022-2-128">The Wicked Library</a>," in October 2022",
   ],
   quote: "“I still didn`t understand. I asked my grandmother what sort of star it was, a constellation or a shooting star or something else. “No. No, shooting star,” she said, thinking for a minute. “Like a star, but different. Like a black star. And they watch it for a long time. Only in certain places: it happens. It’s a bad thing. These children—” she shook her head.”",
 },
