@@ -1,18 +1,42 @@
-.body {
-  margin: 5% auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  height: 100%;
+@media only screen and (min-width: 850px) {
+  .body {
+    margin: 5% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+  }
+
+  .entry {
+    font-family: Fraunces;
+    font-weight: 500;
+    font-size: x-large;
+    height: 2em;
+  }
+
+  .entry a {
+    color: black;
+  }
 }
 
-.entry {
-  font-family: Fraunces;
-  font-weight: 500;
-  font-size: x-large;
-  height: 2em;
-}
+@media only screen and (max-width: 850px) {
+  .body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    margin: 38% 0 0 0;
+  }
 
-.entry a {
-  color: black;
+  .entry {
+    font-family: Fraunces;
+    font-weight: 500;
+    font-size: x-large;
+    height: 2em;
+        margin: 7% 0 0 0;
+  }
+
+  .entry a {
+    color: black;
+  }
 }

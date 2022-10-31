@@ -1,31 +1,67 @@
-.credits {
-  margin: 5% auto;
-  width: 60%;
-  overflow: scroll;
-  font-family: Fraunces;
-  color: black;
-  font-weight: 500;
+@media only screen and (min-width: 850px) {
+  .credits {
+    margin: 5% auto;
+    width: 60%;
+    overflow: scroll;
+    font-family: Fraunces;
+    color: black;
+    font-weight: 500;
+  }
+
+  .credits a {
+    color: darkgrey;
+    text-decoration: none;
+  }
+
+  .creditEntry {
+    padding: 1%;
+  }
+
+  .title {
+    font-size: larger;
+  }
+
+  .quote {
+    margin: 3% 13%;
+    font-style: italic;
+  }
+
+  .creditYear {
+    font-size: 2em;
+    margin: 3% 1%;
+  }
 }
 
-.credits a {
-  color: darkgrey;
-  text-decoration: none;
-}
+@media only screen and (max-width: 850px) {
+  .credits {
+    margin: 5% auto;
+    width: 87%;
+    overflow: scroll;
+    font-family: Fraunces;
+    color: black;
+    font-weight: 500;
+  }
 
-.creditEntry {
-  padding: 1%;
-}
+  .credits a {
+    color: darkgrey;
+    text-decoration: none;
+  }
 
-.title {
-  font-size: larger;
-}
+  .creditEntry {
+    padding: 6% 0;
+  }
 
-.quote {
-  margin: 3% 13%;
-  font-style: italic;
-}
+  .title {
+    font-size: larger;
+  }
 
-.creditYear {
-  font-size: 2em;
-  margin: 3% 1%;
+  .quote {
+    margin: 3% 13%;
+    font-style: italic;
+  }
+
+  .creditYear {
+    font-size: 2em;
+    margin: 7% 1% 0%;
+  }
 }
