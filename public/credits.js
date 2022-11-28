@@ -62,11 +62,9 @@ export const credits = [{
       {
                   title: [ <
           i > The Sculptor < /i>,
-          "in ", <
-          a href="https://grimscribepress.com/issues/" >
-                    Vastarien: A Literary Journal <
-          /a>,
+          "in ", <a href="https://grimscribepress.com/issues/" >Vastarien: A Literary Journal </a>,
                     " vol.4 issue 1, Spring 2021",
+                    <a href="https://ellendatlow.com/2022/11/28/recommendations-for-2014-long-list-2/" > (BHOY longlisted)</a>,
                   ],
                   quote: "A Journalist gets an invitation to interview a reclusive sculptor and learns firsthand the meaning of the artist`s perplexing work.",
                 },
