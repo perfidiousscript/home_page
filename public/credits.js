@@ -4,13 +4,20 @@
 // }
 
 export const credits = [{
+  year: "2023"
+},{
+  title: ["[Forthcoming] ", <i>Near Where the Rector Had Stood</i>, " and ", <i>My Program</i>,
+    " on minor literature[s], March 2023"
+  ],
+  quote: "I had to get away from my program, which had turned stifling, so I went to the famous church on the edge of campus. The church was known for being very old, and the group with which it was associated known for being very pious.",
+},{
   year: "2022"
 },
 {
   title: [<i> The Starsick </i>,
     "produced as a podcast on ", <a href="https://www.spreaker.com/user/8992719/ew-2022-2-128">The Wicked Library</a>," in October 2022",
   ],
-  quote: "“I still didn`t understand. I asked my grandmother what sort of star it was, a constellation or a shooting star or something else. “No. No, shooting star,” she said, thinking for a minute. “Like a star, but different. Like a black star. And they watch it for a long time. Only in certain places: it happens. It’s a bad thing. These children—” she shook her head.”",
+  quote: "“I still didn`t understand. I asked my grandmother what sort of star it was, a constellation or a shooting star or something else?” “No. No, shooting star,” she said, thinking for a minute. “Like a star, but different. Like a black star. And they watch it for a long time. Only in certain places: it happens. It’s a bad thing. These children—” she shook her head.”",
 },
 {
   title: [< i > Indeterminacy is what keeps us alive and makes us real< /i>,", June 2022",<br /> , "An Interview with David Leo Rice", " in ", < a href="https://minorliteratures.com/2022/06/07/indeterminacy-is-what-keeps-us-alive-and-makes-us-real-an-interview-with-david-leo-rice-samuel-m-moss/" > minor literatures[s] < /a>],
