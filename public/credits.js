@@ -71,7 +71,7 @@ export const credits = [{
           i > The Sculptor < /i>,
           "in ", <a href="https://grimscribepress.com/issues/" >Vastarien: A Literary Journal </a>,
                     " vol.4 issue 1, Spring 2021",
-                    <a href="https://ellendatlow.com/2022/11/28/recommendations-for-2014-long-list-2/" > (BHOY longlisted)</a>,
+                    <a href="https://ellendatlow.com/2022/11/28/recommendations-for-2014-long-list-2/" > (BHOtY #14 longlisted)</a>,
                   ],
                   quote: "A Journalist gets an invitation to interview a reclusive sculptor and learns firsthand the meaning of the artist`s perplexing work.",
                 },
@@ -79,8 +79,8 @@ export const credits = [{
                       title: [ <
           i > The Catch < /i>,
           "in", <
-          a href="https://www.youngmag.io/article/the-catch" > Young Mag < /a>,
-                        ", January 2021",
+          a href="https://www.youngmag.io/article/the-catch" > Young Mag, < /a>,
+                        " January 2021",
                       ],
                       quote: '"There’s a place nearby that sells these little bottles. Script unintelligible. It’s all caffeine with a dash of cholesterol and casein. You drink it down in a gulp and the whole world gets wan and jiggly. Things seem slick, but manageable. Whole barriers of the mind are broken down and you feel like you can talk to anyone, anywhere, anytime. I wash three of these a day down my gullet, civet scented, I think."',
                     },
