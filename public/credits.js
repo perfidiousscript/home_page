@@ -6,8 +6,8 @@
 export const credits = [{
   year: "2023"
 },{
-  title: ["[Forthcoming] ", <i>Near Where the Rector Had Stood</i>, " and ", <i>My Program</i>,
-    " on minor literature[s], March 2023"
+  title: ["Two Stories: ", <i>Near Where the Rector Had Stood</i>, " and ", <i>My Program</i>,
+    " on ", <a href="https://minorliteratures.com/2023/03/30/two-stories-samuel-m-moss/">minor literature[s]</a>, ", March 2023"
   ],
   quote: "I had to get away from my program, which had turned stifling, so I went to the famous church on the edge of campus. The church was known for being very old, and the group with which it was associated known for being very pious.",
 },{
@@ -15,7 +15,7 @@ export const credits = [{
 },
 {
   title: [<i> The Starsick </i>,
-    "produced as a podcast on ", <a href="https://www.spreaker.com/user/8992719/ew-2022-2-128">The Wicked Library</a>," in October 2022",
+    "produced as a podcast on ", <a href="https://www.spreaker.com/user/8992719/ew-2022-2-128">The Wicked Library</a>,", October 2022",
   ],
   quote: "“I still didn`t understand. I asked my grandmother what sort of star it was, a constellation or a shooting star or something else?” “No. No, shooting star,” she said, thinking for a minute. “Like a star, but different. Like a black star. And they watch it for a long time. Only in certain places: it happens. It’s a bad thing. These children—” she shook her head.”",
 },
