@@ -116,23 +116,14 @@ export const credits = [{
                           ],
                           quote: "An interview with Author Mark Gluth about his novel `Come Down to Us` as well as an interview with artist Steven Purtill who collaborated with Mark on projects related to the novel.",
                         },
+      {year: "2019"},
       {
-                              year: "2019"
-                          },
+        title: [ <i > Drug Lung < /i>,"and", <i > Some Eastern Demon < /i>,"in", <a href="http://www.decompmagazine.com/mossflashes.htm" > decomP< /a>,", Sep 2019",],
+        quote: "I saw some eastern demon crawling. Called out, Catch as catch can! and started to run. He was lumpen, tired, smoking a cigarette. Sweatpants and derisive comments. I made it thirty feet before turning. These things don’t pay as well as they used to, he said.",},
       {
-                              title: [ <
-          i > Drug Lung < /i>,
-          "and", <
-          i > Some Eastern Demon < /i>,
-          "in", <
-          a href="http://www.decompmagazine.com/mossflashes.htm" > decomP < /a>,
-                                  ", Sep 2019",
-                                ],
-                                quote: "I saw some eastern demon crawling. Called out, Catch as catch can! and started to run. He was lumpen, tired, smoking a cigarette. Sweatpants and derisive comments. I made it thirty feet before turning. These things don’t pay as well as they used to, he said.",
-                              },
-      {
-                                    year: "2014"
-                                },
+        title: [ <i> The Plague Victim </i>,"in", <a href="https://chthonicmatter.wordpress.com/nightscript/" > Nightscript #5< /a>,", Oct 2019",],
+        quote: "In the general chaos following the fleeing of the livestock the man sank into a violent silence.",},
+      {year: "2014"},
       {
                                     title: [ <
           i > Lying Down Machines < /i>,
