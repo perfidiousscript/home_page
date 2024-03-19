@@ -3,7 +3,7 @@
 //   quote: 'this is the quote'
 // }
 
-export const credits = [{
+export const credits = [{year: "2024"},{title: [<i>Dead Men's Fingernails</i>," in Fabulist Flash (Forthcoming)"]},{
   year: "2023"
 },{
   title: ["Two Stories: ", <i>Near Where the Rector Had Stood</i>, " and ", <i>My Program</i>,
