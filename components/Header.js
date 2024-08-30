@@ -14,12 +14,12 @@ export default function Header() {
         <div className={styles.headerLink}>
           <Link href="credits">Credits</Link>
         </div>
-        <div className={styles.headerLink}>
+        {/* <div className={styles.headerLink}>
           <Link href="reviews">Reviews</Link>
         </div>
         <div className={styles.headerLink}>
           <Link href="web_portfolio">Web Portfolio</Link>
-        </div>
+          </div> */}
         <div className={styles.headerLink}>
           <Link href="editorial_services">Editorial Services</Link>
         </div>
