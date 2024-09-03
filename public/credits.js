@@ -15,8 +15,13 @@ export const credits = [
   },
   {
     title: [
-      <i>Entry on J.M. Coetzee's 'Life of Jesus' Trilogy</i>,
-      " in minor li[s]t (Forthcoming)",
+      "Entry on J.M. Coetzee's 'Life of Jesus' Trilogy",
+      " in the ",
+      <a href="https://minorliteratures.com/2024/09/03/minor-list/">
+        {" "}
+        minor li[s]t
+      </a>,
+      " September 2024",
     ],
   },
   {
