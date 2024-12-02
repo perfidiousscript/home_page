@@ -5,14 +5,28 @@
 
 export const credits = [
   { year: "2025" },
-  { title: [<i>A Paper Game Teacher</i>, " in Chthonic Matter (Forthcoming)"] },
   {
-    title: [<i>Dead Men's Fingernails</i>, " in Fabulist Flash (Forthcoming)"],
+    title: [
+      <i>A Paper Game Teacher</i>,
+      " (short fiction, forthcoming) in Chthonic Matter, September 2025",
+    ],
+  },
+  {
+    title: [
+      <i>Dead Men's Fingernails</i>,
+      " (short fiction, forthcoming) in Fabulist Flash, March 2025 ",
+    ],
+  },
+  {
+    title: ["[Title TBA], (a debut full-length, forthcoming) in Winter 2025"],
+  },
+  {
+    title: [
+      <i>Dr. Lysergus</i>,
+      " (an excerpt, forthcoming) in minor literature[s], Febuary 2025 ",
+    ],
   },
   { year: "2024" },
-  {
-    title: [<i>Debut Full-length</i>, " (Forthcoming)"],
-  },
   {
     title: [
       "Entry on J.M. Coetzee's 'Life of Jesus' Trilogy",
