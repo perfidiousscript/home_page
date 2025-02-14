@@ -1,62 +1,62 @@
 @media only screen and (min-width: 850px) {
-.bio {
-  margin: 5% auto;
-  width: 50%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+  .bio {
+    margin: 5% auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
-.bioBody {
-  text-indent: 5%;
-  font-family: Fraunces;
-  font-size: larger;
-  padding: 7% 14%;
-  line-height: 1.6;
-}
+  .bioBody {
+    text-indent: 5%;
+    font-family: Fraunces;
+    font-size: larger;
+    padding: 7% 14%;
+    line-height: 1.6;
+  }
 
-.bio div div:first-child {
-  border: 1px solid black;
-}
+  .bio div div:first-child {
+    border: 1px solid black;
+  }
 
-.bioBody a {
-  color: darkgrey;
-  text-decoration: none;
-}
+  .bioBody a {
+    color: darkgrey;
+    text-decoration: none;
+  }
 
-.bioBody Link {
-  color: darkgrey;
-  text-decoration: none;
-}
+  .bioBody Link {
+    color: darkgrey;
+    text-decoration: none;
+  }
 }
 
 @media only screen and (max-width: 850px) {
-.bio {
-  margin: 5% auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+  .bio {
+    margin: 5% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
-.bioBody {
-  text-indent: 5%;
-  font-family: Fraunces;
-  font-size: larger;
-  padding: 7% 14%;
-  line-height: 1.6;
-}
+  .bioBody {
+    text-indent: 5%;
+    font-family: Fraunces;
+    font-size: larger;
+    padding: 7% 14%;
+    line-height: 1.6;
+  }
 
-.bio div div:first-child {
-  border: 1px solid black;
-}
+  .bio div div:first-child {
+    border: 1px solid black;
+  }
 
-.bioBody a {
-  color: darkgrey;
-  text-decoration: none;
-}
+  .bioBody a {
+    color: darkgrey;
+    text-decoration: none;
+  }
 
-.bioBody Link {
-  color: darkgrey;
-  text-decoration: none;
-}
+  .bioBody Link {
+    color: darkgrey;
+    text-decoration: none;
+  }
 }
