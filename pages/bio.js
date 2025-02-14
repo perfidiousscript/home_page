@@ -16,14 +16,14 @@ export default function Bio() {
       <div className={styles.content}>
         <Header />
         <div className={styles.bio}>
-          <div className={styles.bioImage}>
-            <Image src="/images/2025_photo.jpg" width="240" height="300" />
-            <div class="authorPhotoCredit">
-              Author photo by{" "}
-              <Link href="https://www.instagram.com/doomstache">
-                Jon R. Moore
-              </Link>
-            </div>
+          <div class="bioImage">
+            <Image src="/images/2025_photo.jpg" fill={true} />
+          </div>
+          <div class="authorPhotoCredit">
+            Author photo by{" "}
+            <Link href="https://www.instagram.com/doomstache">
+              Jon R. Moore
+            </Link>
           </div>
           <div className={styles.bioBody}>
             Samuel M. Moss is a writer and editor who lives in rural Cascadia.

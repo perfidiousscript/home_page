@@ -90,6 +90,12 @@ a {
   font-size: small;
 }
 
+.bioImage {
+  width: 24rem;
+  height: 30rem;
+  position: relative;
+}
+
 .authorPhotoCredit a {
   color: darkred;
 }
