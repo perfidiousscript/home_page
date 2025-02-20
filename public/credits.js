@@ -18,13 +18,24 @@ export const credits = [
     ],
   },
   {
-    title: ["[Title TBA], (a debut full-length, forthcoming) in Winter 2025"],
+    title: [
+      <i>The Veldt Institute</i>,
+      " (a full-length, forthcoming) with ",
+      <a href="https://double--negative.com/"> Double--Negative Press</a>,
+      " in 2025",
+    ],
   },
   {
     title: [
-      <i>Dr. Lysergus</i>,
-      " (an excerpt, forthcoming) in minor literature[s], Febuary 2025 ",
+      <i>Dr. Lysergus and the Holy Fool</i>,
+      " an excerpt from 'The Veldt Institute' in ",
+      <a href="https://minorliteratures.com/2025/02/20/dr-lysergus-and-the-holy-fool-samuel-m-moss/">
+        minor literature[s]
+      </a>,
+      " Febuary 2025",
     ],
+    quote:
+      "“There is another language,” Dr. Lysergus said, his voice very low and quiet, “lying within this one.” He paused, tapped his pen against his chin. “And another logic, too, sleeps within this logic.”",
   },
   { year: "2024" },
   {
