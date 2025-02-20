@@ -9,15 +9,14 @@ export default function Bio() {
       <Header />
       <div className={styles.body}>
         <div className={styles.entry}>
-          <a href="https://twitter.com/perfidiouscript">Twitter</a>
+          <a href="https://bsky.app/profile/perfidiousscript.bsky.social">
+            Bluesky
+          </a>
         </div>
         <div className={styles.entry}>
           <a href="https://www.goodreads.com/author/show/13994421.Samuel_M_Moss">
             Goodreads
           </a>
-        </div>
-        <div className={styles.entry}>
-          <a href="https://www.quora.com/profile/Sam-Moss-8">Quora</a>
         </div>
         <div className={styles.entry}>
           <a href="https://letterboxd.com/sammmoss/">Lettrboxd</a>
