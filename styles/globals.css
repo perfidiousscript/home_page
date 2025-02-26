@@ -88,6 +88,8 @@ a {
 
 .authorPhotoCredit {
   font-size: small;
+  text-align: right;
+  width: 24rem;
 }
 
 .bioImage {
@@ -98,4 +100,16 @@ a {
 
 .authorPhotoCredit a {
   color: darkred;
+}
+
+@media only screen and (max-width: 850px) {
+  .bioImage {
+    width: 16rem;
+    height: 20rem;
+    position: relative;
+  }
+
+  .authorPhotoCredit {
+    width: 16rem;
+  }
 }

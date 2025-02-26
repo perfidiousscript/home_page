@@ -7,24 +7,31 @@ export const credits = [
   { year: "2025" },
   {
     title: [
+      <i>The Veldt Institute</i>,
+      " (a novel, forthcoming) with ",
+      <a href="https://double--negative.com/"> Double--Negative Press</a>,
+      " Fall 2025",
+    ],
+  },
+  {
+    title: [
       <i>A Paper Game Teacher</i>,
-      " (short fiction, forthcoming) in Chthonic Matter, September 2025",
+      " (short fiction, forthcoming) in ",
+      <a href="https://chthonicmatter.wordpress.com/chthonicmatter/">
+        Chthonic Matter
+      </a>,
+      " September 2025",
     ],
   },
   {
     title: [
       <i>Dead Men's Fingernails</i>,
-      " (short fiction, forthcoming) in Fabulist Flash, March 2025 ",
+      " (short fiction, forthcoming) in ",
+      <a href="https://fabulistmagazine.com/"> The Fabulist Flash</a>,
+      " March 2025 ",
     ],
   },
-  {
-    title: [
-      <i>The Veldt Institute</i>,
-      " (a full-length, forthcoming) with ",
-      <a href="https://double--negative.com/"> Double--Negative Press</a>,
-      " in 2025",
-    ],
-  },
+
   {
     title: [
       <i>Dr. Lysergus and the Holy Fool</i>,
@@ -127,7 +134,7 @@ export const credits = [
       <i> Coming, Going </i>,
       " in ",
       <a href="https://newworldwriting.net/samuel-m-moss-coming-going/">
-        New World Writing{" "}
+        New World Writing
       </a>,
       ", June 2021",
     ],
@@ -137,7 +144,7 @@ export const credits = [
     title: [
       <i> Morello, Van, Marasca in </i>,
       <a href="https://www.3ammagazine.com/3am/morello-van-marasca/">
-        3: AM Magazine{" "}
+        3: AM Magazine
       </a>,
       ", June 2021",
     ],
@@ -150,7 +157,7 @@ export const credits = [
       <i> The Sculptor </i>,
       "in ",
       <a href="https://grimscribepress.com/issues/">
-        Vastarien: A Literary Journal{" "}
+        Vastarien: A Literary Journal
       </a>,
       " vol.4 issue 1, Spring 2021",
       <a href="https://ellendatlow.com/2022/11/28/recommendations-for-2014-long-list-2/">
@@ -180,7 +187,7 @@ export const credits = [
       "in",
       <a href="https://dimshores.bigcartel.com/product/dim-shores-presents-volume-1-anthology-2nd-edition">
         {" "}
-        Dim Shores Presents #1'{" "}
+        Dim Shores Presents #1
       </a>,
       ", June 2020",
     ],
@@ -191,7 +198,7 @@ export const credits = [
     title: [
       <i>
         Some Other and Separate Iteration: An Interview with Mark Gluth and
-        Steven Purtill{" "}
+        Steven Purtill
       </i>,
       "on",
       <a href="https://denniscooperblog.com/please-welcome-to-the-world-mark-gluth-come-down-to-us-mark-gluth-and-steven-purtill-crippled-symmetry-kiddiepunk-press/">

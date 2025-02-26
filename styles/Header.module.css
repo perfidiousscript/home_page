@@ -1,12 +1,12 @@
+.header {
+  border-bottom: 1px solid black;
+  height: 15vh;
+  display: flex;
+  padding: 0% 3%;
+  margin: 0 0 2rem 0;
+}
 
 @media only screen and (min-width: 850px) {
-  .header {
-    border-bottom: 1px solid black;
-    height: 15vh;
-    display: flex;
-    padding: 0% 3%;
-  }
-
   .nameContainer {
     font-family: CrimsonPro;
     font-size: xx-large;
@@ -25,11 +25,8 @@
 
 @media only screen and (max-width: 850px) {
   .header {
-    border-bottom: 1px solid black;
-    height: 20vh;
-    display: flex;
+    height: 16vh;
     flex-direction: column;
-    padding: 0% 3%;
   }
 
   .nameContainer {
@@ -47,8 +44,6 @@
     flex-wrap: wrap;
   }
 }
-
-
 
 .headerLink {
   font-family: Fraunces;

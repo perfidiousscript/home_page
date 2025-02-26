@@ -5,6 +5,12 @@ import Header from "../components/Header.js";
 import { credits } from "../public/credits.js";
 
 export default function Credits() {
+  function showQuote(quote) {
+    if (quote) {
+      return <div className={styles.quote}>{quote}</div>;
+    }
+  }
+
   function creditEntries() {
     let creditsHTML = credits.map((credit) => {
       if (credit.year) {
@@ -13,6 +19,7 @@ export default function Credits() {
         return (
           <div className={styles.creditEntry} key={credit.title}>
             <div className={styles.title}>{credit.title}</div>
+            {/* {showQuote(credit.quote)} */}
             <div className={styles.quote}>{credit.quote}</div>
           </div>
         );

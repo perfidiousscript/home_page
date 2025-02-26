@@ -1,7 +1,14 @@
+.title {
+  font-size: larger;
+  border-left: 1px solid darkgrey;
+  border-top: 1px solid darkgrey;
+  padding: 1rem 0rem 0px 3rem;
+}
+
 @media only screen and (min-width: 850px) {
   .credits {
     margin: 5% auto;
-    width: 60%;
+    width: 68%;
     overflow: scroll;
     font-family: Fraunces;
     color: black;
@@ -15,14 +22,12 @@
 
   .creditEntry {
     padding: 1%;
-  }
-
-  .title {
-    font-size: larger;
+    margin: 0% 5%;
   }
 
   .quote {
-    margin: 3% 13%;
+    margin: 3% 8%;
+    text-indent: 2rem;
     font-style: italic;
   }
 
@@ -52,11 +57,11 @@
   }
 
   .title {
-    font-size: larger;
+    padding: 1rem 0rem 0px 1rem;
   }
 
   .quote {
-    margin: 3% 13%;
+    padding: 3% 11% 0 11%;
     font-style: italic;
   }
 
