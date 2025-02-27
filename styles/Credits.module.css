@@ -1,7 +1,16 @@
-.title {
-  font-size: larger;
+.creditEntry {
+  margin: 0% 5% 4% 5%;
+  padding: 2% 1% 1% 0;
+  background-color: white;
   border-left: 1px solid darkgrey;
   border-top: 1px solid darkgrey;
+  opacity: 0.7;
+}
+
+.title {
+  font-size: larger;
+  /* border-left: 1px solid darkgrey;
+  border-top: 1px solid darkgrey; */
   padding: 1rem 0rem 0px 3rem;
 }
 
@@ -18,11 +27,6 @@
   .credits a {
     color: darkgrey;
     text-decoration: none;
-  }
-
-  .creditEntry {
-    padding: 1%;
-    margin: 0% 5%;
   }
 
   .quote {
@@ -67,6 +71,6 @@
 
   .creditYear {
     font-size: 2em;
-    margin: 7% 1% 0%;
+    margin: 7% 1%;
   }
 }
