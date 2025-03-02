@@ -15,6 +15,14 @@ export const credits = [
   },
   {
     title: [
+      <i>Private Notary</i>,
+      " (short fiction, forthcoming) in ",
+      <a href="https://www.seizethepress.com/"> Seize the Press</a>,
+      " Fall 2025",
+    ],
+  },
+  {
+    title: [
       <i>A Paper Game Teacher</i>,
       " (short fiction, forthcoming) in ",
       <a href="https://chthonicmatter.wordpress.com/chthonicmatter/">
