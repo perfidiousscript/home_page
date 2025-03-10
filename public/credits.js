@@ -15,20 +15,20 @@ export const credits = [
   },
   {
     title: [
-      <i>Private Notary</i>,
-      " (short fiction, forthcoming) in ",
-      <a href="https://www.seizethepress.com/"> Seize the Press</a>,
-      " Fall 2025",
-    ],
-  },
-  {
-    title: [
       <i>A Paper Game Teacher</i>,
       " (short fiction, forthcoming) in ",
       <a href="https://chthonicmatter.wordpress.com/chthonicmatter/">
         Chthonic Matter
       </a>,
       " September 2025",
+    ],
+  },
+  {
+    title: [
+      <i>Private Notary</i>,
+      " (short fiction, forthcoming) in ",
+      <a href="https://www.seizethepress.com/"> Seize the Press</a>,
+      " Spring 2025",
     ],
   },
   {
@@ -47,7 +47,7 @@ export const credits = [
       <a href="https://minorliteratures.com/2025/02/20/dr-lysergus-and-the-holy-fool-samuel-m-moss/">
         minor literature[s]
       </a>,
-      " Febuary 2025",
+      " February 2025",
     ],
     quote:
       "“There is another language,” Dr. Lysergus said, his voice very low and quiet, “lying within this one.” He paused, tapped his pen against his chin. “And another logic, too, sleeps within this logic.”",
