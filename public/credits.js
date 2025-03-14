@@ -34,10 +34,14 @@ export const credits = [
   {
     title: [
       <i>Dead Men's Fingernails</i>,
-      " (short fiction, forthcoming) in ",
-      <a href="https://fabulistmagazine.com/"> The Fabulist Flash</a>,
+      " in ",
+      <a href="https://fabulistmagazine.com/dead-mens-fingernails/">
+        {" "}
+        The Fabulist (Online)
+      </a>,
       " March 2025 ",
     ],
+    quote: "I had a dream once, but this isn’t that dream, I don’t think.",
   },
 
   {
