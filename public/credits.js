@@ -26,10 +26,17 @@ export const credits = [
   {
     title: [
       <i>Private Notary</i>,
-      " (short fiction, forthcoming) in ",
-      <a href="https://www.seizethepress.com/"> Seize the Press</a>,
-      " Spring 2025",
+      " (currently available only to subscribers) in ",
+      <a href="https://www.patreon.com/posts/stp-issue-12-out-125052690">
+        {" "}
+        Seize the Press #12
+      </a>,
+      " March 2025",
     ],
+    quote: `"He feels suddenly perplexed, though he cannot say at what. He has a question on the tip of his tongue, but all he can think to say is, “What sort of dream is this?”
+	“I'm giving you all the answers,” Amos says. “But if you keep asking the wrong questions you won’t learn a thing.”
+	He realizes then that Amos is not talking about the chapel, but something past the chapel, even past the trees.
+	For a moment the Private Notary almost thinks he can see it."`,
   },
   {
     title: [
