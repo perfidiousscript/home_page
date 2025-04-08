@@ -25,6 +25,16 @@ export const credits = [
   },
   {
     title: [
+      "Video of a reading of an ",
+      <a href="https://youtu.be/o01D7MI6Vs4?si=ZWw728Xo_10EU49F&t=162">
+        {" "}
+        excerpt from The Veldt Institute
+      </a>,
+      " given at the new_sinews offsite reading at AWP 2025  ",
+    ],
+  },
+  {
+    title: [
       <i>Private Notary</i>,
       " (currently available only to subscribers) in ",
       <a href="https://www.patreon.com/posts/stp-issue-12-out-125052690">
