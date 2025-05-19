@@ -36,8 +36,8 @@ export const credits = [
   {
     title: [
       <i>Private Notary</i>,
-      " (currently available only to subscribers) in ",
-      <a href="https://www.patreon.com/posts/stp-issue-12-out-125052690">
+      " in ",
+      <a href="https://www.seizethepress.com/2025/03/29/private-notary-by-samuel-m-moss/">
         {" "}
         Seize the Press #12
       </a>,
