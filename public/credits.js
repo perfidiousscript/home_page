@@ -28,6 +28,23 @@ export const credits = [
   },
   {
     title: [
+      <i>Some Column Poems</i>,
+      " in ",
+      <a href="https://www.alwayscrashing.com/current/2025/7/21/samuel-m-moss-some-column-poems">
+        Always Crashing
+      </a>,
+      " July 2025",
+    ],
+    // prettier-ignore
+    quote:<pre><br/>finncrisp      and kerrygold<br/>
+    caught         at half price<br/>
+    a dollar hearse      in heat<br/>
+    the knife      knuckles down<br/>
+    to take the             pint<br/>
+    on the errand  runner’s task</pre>,
+  },
+  {
+    title: [
       "Video of a reading of an ",
       <a href="https://youtu.be/o01D7MI6Vs4?si=ZWw728Xo_10EU49F&t=162">
         {" "}
