@@ -221,7 +221,10 @@ export const credits = [
     title: [
       <i> The Catch </i>,
       "in",
-      <a href="https://www.youngmag.io/article/the-catch"> Young Mag, </a>,
+      <a href="https://web.archive.org/web/20210612163523/https://www.youngmag.io/article/the-catch">
+        {" "}
+        Young Mag,{" "}
+      </a>,
       " January 2021",
     ],
     quote:
