@@ -23,7 +23,7 @@ export const credits = [
       <a href="https://chthonicmatter.wordpress.com/chthonicmatter/">
         Chthonic Matter
       </a>,
-      " September 2025",
+      " Fall 2025",
     ],
   },
   {

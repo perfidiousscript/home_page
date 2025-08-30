@@ -27,12 +27,14 @@ export default function Bio() {
           </div>
           <div className={styles.bioBody}>
             Samuel M. Moss is a writer and editor who lives in rural Cascadia.
-            His fiction and poetry have been published in <i>3:AM Magazine</i>,{" "}
-            <i>minor literature[s]</i>, <i>New World Writing</i>,{" "}
-            <i>Word For/ Word</i>, <i>Dim Shores Presents</i>, and{" "}
-            <i>Vastarien</i> <Link href="credits">among other venues</Link>. He
-            runs <a href="https://www.ergot.press/">ergot.</a>, a site for
-            innovative and experimental horror.
+            He is the author of <i>The Veldt Institute</i> (Double--Negative
+            Press, 2025). His short fiction and poetry have been published in{" "}
+            <i>Always Crashing</i>,<i>3:AM Magazine</i>,{" "}
+            <i>minor literature[s]</i>, <i>Word For/ Word</i>,{" "}
+            <i>Dim Shores Presents</i>, and <i>Vastarien</i>{" "}
+            <Link href="credits">among other venues</Link>. He runs{" "}
+            <a href="https://www.ergot.press/">ergot.</a>, a site for innovative
+            and experimental horror.
           </div>
         </div>
       </div>
