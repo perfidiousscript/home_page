@@ -9,10 +9,7 @@ export const credits = [
     title: [
       <i>The Veldt Institute</i>,
       " (a novel, forthcoming) with ",
-      <a href="https://double--negative.com/catalog.html">
-        {" "}
-        Double--Negative Press
-      </a>,
+      <a href="https://double--negative.com/catalog.html"> Double--Negative</a>,
       " Fall 2025",
     ],
   },

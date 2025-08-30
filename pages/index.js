@@ -27,8 +27,11 @@ export default function Home() {
           </div>
           <div className={styles.bioBody}>
             Samuel M. Moss is a writer and editor who lives in rural Cascadia.
-            He is the author of <i>The Veldt Institute</i> (Double--Negative
-            Press, 2025). His short fiction and poetry have been published in{" "}
+            He is the author of <i>The Veldt Institute</i> (
+            <Link href="https://double--negative.com/catalog.html">
+              Double--Negative
+            </Link>
+            , 2025). His short fiction and poetry have been published in{" "}
             <i>Always Crashing</i>,<i>3:AM Magazine</i>,{" "}
             <i>minor literature[s]</i>, <i>Word For/ Word</i>,{" "}
             <i>Dim Shores Presents</i>, and <i>Vastarien</i>{" "}
