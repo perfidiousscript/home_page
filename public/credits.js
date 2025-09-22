@@ -19,12 +19,13 @@ export const credits = [
   {
     title: [
       <i>A Paper Game Teacher</i>,
-      " (short fiction, forthcoming) in ",
+      " in ",
       <a href="https://chthonicmatter.wordpress.com/chthonicmatter/">
         Chthonic Matter
       </a>,
-      " Fall 2025",
+      " September 2025",
     ],
+    quote: `When the Teacher arrived the first thing Artem noticed were his eyes. Something about the Teacher’s eyes struck him then — and in his memory — as clearly incorrect, though Artem could never describe what that incorrect quality was. Artem said nothing about the Teacher’s eyes, though he must have stared.`,
   },
   {
     title: [
