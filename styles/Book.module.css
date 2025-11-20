@@ -1,0 +1,118 @@
+@keyframes slidebg {
+  to {
+    background-position: 50vw;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .bookPage {
+    margin: 1% auto;
+    width: 68%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Fraunces;
+  }
+
+  .title {
+    font-weight: 500;
+    font-size: 4rem;
+    margin: 3% auto;
+    text-align: center;
+    /*background-color: #fff;
+    opacity: 0.9;*/
+  }
+
+  .subTitle {
+    font-weight: 500;
+    font-size: x-large;
+    margin: 3% auto;
+    text-align: center;
+  }
+
+  .tviCover {
+    width: 20rem;
+    height: 30rem;
+    position: relative;
+    float: left;
+    margin: 0 4% 0% 0;
+  }
+
+  .synopsis {
+    text-indent: 5%;
+    font-family: Fraunces;
+    font-size: larger;
+    line-height: 1.6;
+    width: 100%;
+    margin: 0 4% 6%;
+    background-color: #fff;
+    opacity: 0.9;
+  }
+
+  .purchase {
+    margin: 0 5% 4%;
+    padding: 1% 31%;
+    background-color: #fff;
+    border: 1px solid #a9a9a9;
+    opacity: 0.7;
+    width: 100%;
+  }
+
+  .purchase:hover {
+    background-image: linear-gradient(
+      90deg,
+      #fff 0%,
+      #e4e5e7 50%,
+      #00c0ff 100%
+    );
+    animation: slidebg 30s linear infinite;
+  }
+
+  .purchaseText {
+    padding: 2% auto;
+    opacity: 0.7;
+    width: 100%;
+    font-family: Fraunces;
+    font-size: 2em;
+  }
+
+  .promo {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 799px) {
+  .bookPage {
+    margin: 1% auto;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .title {
+    font-family: Fraunces;
+    font-weight: 500;
+    font-size: xx-large;
+    margin: 0% auto 15%;
+    text-align: center;
+  }
+
+  .tviCover {
+    width: 100%;
+    height: 30rem;
+    position: relative;
+    float: left;
+    margin: 0 0% 14% 0;
+  }
+
+  .synopsis {
+    text-indent: 10%;
+    font-family: Fraunces;
+    font-size: larger;
+    line-height: 1.6;
+    width: 100%;
+    background-color: #fff;
+    opacity: 0.9;
+  }
+}

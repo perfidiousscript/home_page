@@ -12,14 +12,11 @@ export default function Header() {
           <Link href="bio">Bio</Link>
         </div>
         <div className={styles.headerLink}>
-          <Link href="credits">Credits</Link>
-        </div>
-        {/* <div className={styles.headerLink}>
-          <Link href="reviews">Reviews</Link>
+          <Link href="the_veldt_institute">Books</Link>
         </div>
         <div className={styles.headerLink}>
-          <Link href="web_portfolio">Web Portfolio</Link>
-          </div> */}
+          <Link href="credits">Credits</Link>
+        </div>
         <div className={styles.headerLink}>
           <Link href="editorial_services">Editorial Services</Link>
         </div>

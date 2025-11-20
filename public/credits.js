@@ -303,3 +303,28 @@ export const credits = [
       "The father and the son built the machines from boards they gathered on the Taiga. It took two months to build the first Lying Down Machine. They made black pine pitch in a fire hut and gathered Widow`s Teeth from within the granite crevices.",
   },
 ];
+
+export const tviCredits = [
+  // https://heavyfeatherreview.org/2025/11/20/the-veldt-institute/
+  {
+    title: [
+      "A review by S.D. Stewart in ",
+      <a href="https://heavyfeatherreview.org/2025/11/20/the-veldt-institute/">
+        {" "}
+        Heavy Feather Review
+      </a>,
+      ", Novemeber 2025",
+    ],
+  },
+  ,
+  {
+    title: [
+      "An interview with Ivy Grimes on her substack",
+      <a href="https://ivygrimes.substack.com/p/interview-with-samuel-moss">
+        {" "}
+        Writing Thoughts
+      </a>,
+      ", September 2025",
+    ],
+  },
+];
