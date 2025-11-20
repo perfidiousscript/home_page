@@ -141,7 +141,15 @@ a {
     width: 16rem;
   }
 
+  .credits {
+    width: 95%;
+  }
+
+  .creditTitle {
+    padding: 1rem 0rem 0px 1rem;
+  }
+
   .creditEntry {
-    padding: 6% 0;
+    padding: 2% 5%;
   }
 }

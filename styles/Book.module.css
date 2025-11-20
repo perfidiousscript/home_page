@@ -4,6 +4,28 @@
   }
 }
 
+.purchase {
+  margin: 0 5% 4%;
+  padding: 1% 31%;
+  background-color: #fff;
+  border: 1px solid #a9a9a9;
+  opacity: 0.7;
+  width: 100%;
+}
+
+.purchase:hover {
+  background-image: linear-gradient(90deg, #fff 0%, #e4e5e7 50%, #00c0ff 100%);
+  animation: slidebg 30s linear infinite;
+}
+
+.purchaseText {
+  opacity: 0.7;
+  width: 100%;
+  font-family: Fraunces;
+  font-size: 2em;
+  text-align: center;
+}
+
 @media only screen and (min-width: 800px) {
   .bookPage {
     margin: 1% auto;
@@ -49,33 +71,6 @@
     opacity: 0.9;
   }
 
-  .purchase {
-    margin: 0 5% 4%;
-    padding: 1% 31%;
-    background-color: #fff;
-    border: 1px solid #a9a9a9;
-    opacity: 0.7;
-    width: 100%;
-  }
-
-  .purchase:hover {
-    background-image: linear-gradient(
-      90deg,
-      #fff 0%,
-      #e4e5e7 50%,
-      #00c0ff 100%
-    );
-    animation: slidebg 30s linear infinite;
-  }
-
-  .purchaseText {
-    padding: 2% auto;
-    opacity: 0.7;
-    width: 100%;
-    font-family: Fraunces;
-    font-size: 2em;
-  }
-
   .promo {
     width: 100%;
   }
@@ -114,5 +109,19 @@
     width: 100%;
     background-color: #fff;
     opacity: 0.9;
+  }
+
+  .purchase {
+    margin: 14% 0%;
+    padding: 5% 0;
+    background-color: #fff;
+    border: 1px solid #a9a9a9;
+    opacity: 0.7;
+    width: 100%;
+  }
+
+  .purchaseText {
+    font-size: 1.5em;
+    text-align: center;
   }
 }
