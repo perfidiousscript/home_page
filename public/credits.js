@@ -313,7 +313,7 @@ export const tviCredits = [
         {" "}
         Heavy Feather Review
       </a>,
-      ", Novemeber 2025",
+      ", November 2025",
     ],
   },
   ,

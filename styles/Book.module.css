@@ -4,6 +4,10 @@
   }
 }
 
+.bookPage {
+  font-family: Fraunces;
+}
+
 .purchase {
   margin: 0 5% 4%;
   padding: 1% 31%;
@@ -26,6 +30,22 @@
   text-align: center;
 }
 
+.synopsis {
+  border: 1px solid #a9a9a9;
+  background-color: #fff;
+  opacity: 0.9;
+  font-family: Fraunces;
+  font-size: larger;
+  line-height: 1.6;
+}
+
+.subTitle {
+  font-weight: 500;
+  font-size: x-large;
+  margin: 3% auto;
+  text-align: center;
+}
+
 @media only screen and (min-width: 800px) {
   .bookPage {
     margin: 1% auto;
@@ -33,7 +53,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-family: Fraunces;
   }
 
   .title {
@@ -43,13 +62,6 @@
     text-align: center;
     /*background-color: #fff;
     opacity: 0.9;*/
-  }
-
-  .subTitle {
-    font-weight: 500;
-    font-size: x-large;
-    margin: 3% auto;
-    text-align: center;
   }
 
   .tviCover {
@@ -62,13 +74,9 @@
 
   .synopsis {
     text-indent: 5%;
-    font-family: Fraunces;
-    font-size: larger;
-    line-height: 1.6;
     width: 100%;
-    margin: 0 4% 6%;
-    background-color: #fff;
-    opacity: 0.9;
+    margin: 0 0 4%;
+    padding: 4%;
   }
 
   .promo {
@@ -103,12 +111,8 @@
 
   .synopsis {
     text-indent: 10%;
-    font-family: Fraunces;
-    font-size: larger;
-    line-height: 1.6;
     width: 100%;
-    background-color: #fff;
-    opacity: 0.9;
+    padding: 2%;
   }
 
   .purchase {
