@@ -1,4 +1,4 @@
-.creditEntry {
+/*.creditEntry {
   margin: 0% 5% 4% 5%;
   padding: 2% 1% 1% 0;
   background-color: white;
@@ -10,12 +10,12 @@
 .title {
   font-size: larger;
   /* border-left: 1px solid darkgrey;
-  border-top: 1px solid darkgrey; */
+  border-top: 1px solid darkgrey;
   padding: 1rem 0rem 0px 3rem;
-}
+}*/
 
 @media only screen and (min-width: 850px) {
-  .credits {
+  /*.credits {
     margin: 5% auto;
     width: 68%;
     overflow: scroll;
@@ -27,7 +27,7 @@
   .credits a {
     color: darkgrey;
     text-decoration: none;
-  }
+  }*/
 
   .quote {
     margin: 3% 8%;
@@ -56,9 +56,9 @@
     text-decoration: none;
   }
 
-  .creditEntry {
+  /*.creditEntry {
     padding: 6% 0;
-  }
+  }*/
 
   .title {
     padding: 1rem 0rem 0px 1rem;

@@ -17,8 +17,8 @@ export default function Credits() {
         return <div className={styles.creditYear}>{credit.year}</div>;
       } else {
         return (
-          <div className={styles.creditEntry} key={credit.title}>
-            <div className={styles.title}>{credit.title}</div>
+          <div className="creditEntry" key={credit.title}>
+            <div className="creditTitle">{credit.title}</div>
             {/* {showQuote(credit.quote)} */}
             <div className={styles.quote}>{credit.quote}</div>
           </div>
@@ -32,7 +32,7 @@ export default function Credits() {
     <>
       <Header />
       <div className="pageTitle">Recent and Selected Credits</div>
-      <div className={styles.credits}>
+      <div className="credits">
         {creditEntries()}
         <div className={styles.title}>
           Older credits can be found{" "}
