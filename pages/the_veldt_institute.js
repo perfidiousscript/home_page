@@ -9,15 +9,11 @@ import { tviCredits } from "../public/credits.js";
 export default function TVI() {
   function creditEntries() {
     let creditsHTML = tviCredits.map((credit) => {
-      if (credit.year) {
-        return <div className={styles.creditYear}>{credit.year}</div>;
-      } else {
-        return (
-          <div className="creditEntry" key={credit.title}>
-            <div className="creditTitle">{credit.title}</div>
-          </div>
-        );
-      }
+      return (
+        <div className="creditEntry" key={credit.title}>
+          <div className="creditTitle">{credit.title}</div>
+        </div>
+      );
     });
 
     return creditsHTML;

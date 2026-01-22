@@ -308,19 +308,37 @@ export const tviCredits = [
   // https://heavyfeatherreview.org/2025/11/20/the-veldt-institute/
   {
     title: [
+      "A interview with Perry Ruhland in ",
+      <a
+        href="https://xraylitmag.com/samuel-m-moss-interviewed-by-perry-ruhland/interviews-reviews/"
+        key="1"
+      >
+        {" "}
+        X-R-A-Y
+      </a>,
+      ", January 2026",
+    ],
+  },
+  {
+    title: [
       "A review by S.D. Stewart in ",
-      <a href="https://heavyfeatherreview.org/2025/11/20/the-veldt-institute/">
+      <a
+        href="https://heavyfeatherreview.org/2025/11/20/the-veldt-institute/"
+        key="2"
+      >
         {" "}
         Heavy Feather Review
       </a>,
       ", November 2025",
     ],
   },
-  ,
   {
     title: [
       "An interview with Ivy Grimes on her substack",
-      <a href="https://ivygrimes.substack.com/p/interview-with-samuel-moss">
+      <a
+        href="https://ivygrimes.substack.com/p/interview-with-samuel-moss"
+        key="3s"
+      >
         {" "}
         Writing Thoughts
       </a>,
