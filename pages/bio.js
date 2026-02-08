@@ -32,7 +32,7 @@ export default function Bio() {
               Double--Negative
             </Link>
             , 2025). His short fiction and poetry have been published in{" "}
-            <i>Always Crashing</i>,<i>3:AM Magazine</i>,{" "}
+            <i>Always Crashing</i>, <i>3:AM Magazine</i>,{" "}
             <i>minor literature[s]</i>, <i>Word For/ Word</i>,{" "}
             <i>Dim Shores Presents</i>, and <i>Vastarien</i>{" "}
             <Link href="credits">among other venues</Link>. He runs{" "}
