@@ -27,8 +27,12 @@ export default function Bio() {
           </div>
           <div className={styles.bioBody}>
             Samuel M. Moss is a writer and editor who lives in rural Cascadia.
-            He is the author of <i>The Veldt Institute</i> (
-            <Link href="https://double--negative.com/catalog.html">
+            He is the author of{" "}
+            <Link href="https://asterismbooks.com/product/the-veldt-institute-samuel-m-moss">
+              <i>The Veldt Institute</i>
+            </Link>{" "}
+            (
+            <Link href="https://double--negative.com/index.html">
               Double--Negative
             </Link>
             , 2025). His short fiction and poetry have been published in{" "}
