@@ -308,6 +308,22 @@ export const tviCredits = [
   // https://heavyfeatherreview.org/2025/11/20/the-veldt-institute/
   {
     title: [
+      "Recommended by Drew Broussard of  ",
+      <a href="https://www.roughdraftny.com/" key="1">
+        Rough Draft Bar & Books
+      </a>,
+      " on WAMC's ",
+      <a
+        href="https://www.wamc.org/podcast/the-roundtable/2026-02-17/book-picks-battenkill-books-and-rough-draft-bar-books"
+        key="1"
+      >
+        The Roundtable
+      </a>,
+      ", February 2026",
+    ],
+  },
+  {
+    title: [
       "A interview with Perry Ruhland in ",
       <a
         href="https://xraylitmag.com/samuel-m-moss-interviewed-by-perry-ruhland/interviews-reviews/"
