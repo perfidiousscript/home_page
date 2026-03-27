@@ -308,6 +308,19 @@ export const tviCredits = [
   // https://heavyfeatherreview.org/2025/11/20/the-veldt-institute/
   {
     title: [
+      "A very kind ",
+      <a href="https://www.instagram.com/p/DWTiy-0iXFT" key="5">
+        review
+      </a>,
+      " from Shaye Easton on Instagram ",
+      <a href="https://www.instagram.com/shayebytheshore/" key="4">
+        (@shayebytheshore)
+      </a>,
+      ", March 2026",
+    ],
+  },
+  {
+    title: [
       "Recommended by Drew Broussard of  ",
       <a href="https://www.roughdraftny.com/" key="1">
         Rough Draft Bar & Books
@@ -315,7 +328,7 @@ export const tviCredits = [
       " on WAMC's ",
       <a
         href="https://www.wamc.org/podcast/the-roundtable/2026-02-17/book-picks-battenkill-books-and-rough-draft-bar-books"
-        key="1"
+        key="3"
       >
         The Roundtable
       </a>,
@@ -327,7 +340,7 @@ export const tviCredits = [
       "A interview with Perry Ruhland in ",
       <a
         href="https://xraylitmag.com/samuel-m-moss-interviewed-by-perry-ruhland/interviews-reviews/"
-        key="1"
+        key="3"
       >
         {" "}
         X-R-A-Y
@@ -353,7 +366,7 @@ export const tviCredits = [
       "An interview with Ivy Grimes on her substack",
       <a
         href="https://ivygrimes.substack.com/p/interview-with-samuel-moss"
-        key="3s"
+        key="1"
       >
         {" "}
         Writing Thoughts
