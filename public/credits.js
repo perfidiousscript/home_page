@@ -238,7 +238,7 @@ export const credits = [
     title: [
       <i> Gallaher Calls </i>,
       "in",
-      <a href="https://dimshores.bigcartel.com/product/dim-shores-presents-volume-1-anthology-2nd-edition">
+      <a href="https://dimshores.bigcartel.com/product/dim-shores-presents-volume-1-e-book">
         {" "}
         Dim Shores Presents #1
       </a>,
