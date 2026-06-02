@@ -305,7 +305,15 @@ export const credits = [
 ];
 
 export const tviCredits = [
-  // https://heavyfeatherreview.org/2025/11/20/the-veldt-institute/
+  {
+    title: [
+      "A kind, thoughtful ",
+      <a href="https://www.youtube.com/watch?v=xGattVkFdIU" key="7">
+        Youtube video
+      </a>,
+      " by Jason Fuhrman, May 2026",
+    ],
+  },
   {
     title: [
       "A very kind ",
