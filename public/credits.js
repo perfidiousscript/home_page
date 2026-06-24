@@ -307,6 +307,15 @@ export const credits = [
 export const tviCredits = [
   {
     title: [
+      "A ",
+      <a href="https://www.youtube.com/watch?v=azVqiRvCPGk" key="8">
+        video/trailer
+      </a>,
+      " by Jackson Scarlett with audio of me reading in SF, June 2026",
+    ],
+  },
+  {
+    title: [
       "A kind, thoughtful ",
       <a href="https://www.youtube.com/watch?v=xGattVkFdIU" key="7">
         Youtube video
