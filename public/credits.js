@@ -4,6 +4,17 @@
 // }
 
 export const credits = [
+  { year: "2026" },
+  {
+    title: [
+      <i>In A God's Hand</i>,
+      " in ",
+      <a href="https://keep-planning.net/text/054"> KEEP PLANNING</a>,
+      ", June 2026",
+    ],
+    quote:
+      "And as for my body? What can be said about it? It is hardly there at all, as far as I am concerned. It is meat, sure, but really air, some gas, or seems that way, at least. It can blow here and there, move with the currents, get caught in an eddy and spin for days or weeks. Gaseous things like that don’t mark time in the way true flesh does.",
+  },
   { year: "2025" },
   {
     title: [
@@ -13,7 +24,7 @@ export const credits = [
         {" "}
         Double--Negative
       </a>,
-      " September 2025",
+      ", September 2025",
     ],
   },
   {
@@ -23,7 +34,7 @@ export const credits = [
       <a href="https://chthonicmatter.wordpress.com/chthonicmatter/">
         Chthonic Matter
       </a>,
-      " September 2025",
+      ", September 2025",
     ],
     quote: `When the Teacher arrived the first thing Artem noticed were his eyes. Something about the Teacher’s eyes struck him then — and in his memory — as clearly incorrect, though Artem could never describe what that incorrect quality was. Artem said nothing about the Teacher’s eyes, though he must have stared.`,
   },
@@ -34,7 +45,7 @@ export const credits = [
       <a href="https://www.alwayscrashing.com/current/2025/7/21/samuel-m-moss-some-column-poems">
         Always Crashing
       </a>,
-      " July 2025",
+      ", July 2025",
     ],
     // prettier-ignore
     quote:<pre><br/>finncrisp      and kerrygold<br/>
@@ -51,7 +62,7 @@ export const credits = [
         {" "}
         excerpt from The Veldt Institute
       </a>,
-      " given at the new_sinews offsite reading at AWP 2025  ",
+      ", given at the new_sinews offsite reading at AWP 2025  ",
     ],
   },
   {
@@ -62,7 +73,7 @@ export const credits = [
         {" "}
         Seize the Press #12
       </a>,
-      " March 2025",
+      ", March 2025",
     ],
     quote: `"He feels suddenly perplexed, though he cannot say at what. He has a question on the tip of his tongue, but all he can think to say is, “What sort of dream is this?”
 	“I'm giving you all the answers,” Amos says. “But if you keep asking the wrong questions you won’t learn a thing.”
@@ -77,7 +88,7 @@ export const credits = [
         {" "}
         The Fabulist (Online)
       </a>,
-      " March 2025 ",
+      ", March 2025 ",
     ],
     quote: "I had a dream once, but this isn’t that dream, I don’t think.",
   },
@@ -89,7 +100,7 @@ export const credits = [
       <a href="https://minorliteratures.com/2025/02/20/dr-lysergus-and-the-holy-fool-samuel-m-moss/">
         minor literature[s]
       </a>,
-      " February 2025",
+      ", February 2025",
     ],
     quote:
       "“There is another language,” Dr. Lysergus said, his voice very low and quiet, “lying within this one.” He paused, tapped his pen against his chin. “And another logic, too, sleeps within this logic.”",
@@ -103,7 +114,7 @@ export const credits = [
         {" "}
         minor li[s]t
       </a>,
-      " September 2024",
+      ", September 2024",
     ],
   },
   {
