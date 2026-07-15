@@ -318,6 +318,18 @@ export const credits = [
 export const tviCredits = [
   {
     title: [
+      "Spoke with Ben Lindner on ",
+      <a
+        href="https://podcasts.apple.com/us/podcast/samuel-m-moss-the-veldt-insitute/id1578980767?i=1000776881369"
+        key="9"
+      >
+        Beyond the Zero
+      </a>,
+      ", July 2026",
+    ],
+  },
+  {
+    title: [
       "A ",
       <a href="https://www.youtube.com/watch?v=azVqiRvCPGk" key="8">
         video/trailer
